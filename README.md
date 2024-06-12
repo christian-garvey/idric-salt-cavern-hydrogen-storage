@@ -6,7 +6,7 @@ Repository for IDRIC Project: Assessing the Regional Demand for Geological Hydro
 #                                                                                #
 #      **INDUSTRIAL DECARBONISATION RESEARCH AND INNOVATION CENTRE (IDRIC)**     #
 #                         
-#          ~SALT CAVERN SITE DEVELOPMENT AND CAPACITY TOOL | EAST COAST~         #
+#          SALT CAVERN SITE DEVELOPMENT AND CAPACITY TOOL | EAST COAST           #
 #                                                                                #
 ##################################################################################
 
