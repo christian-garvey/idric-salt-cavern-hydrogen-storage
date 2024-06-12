@@ -31,3 +31,5 @@ Revising the Theoretical Storage Potential of Hydrogen in UK Salt Caverns:
 A Multi-Criteria Assessment of the East Coast of England
 
 Online version: https://app.powerbi.com/view?r=eyJrIjoiZDY5YWFiNjktMWZmZS00NjIyLWI2NDMtMTBkYTQwYmM3NzZjIiwidCI6IjRhZTQ4YjQxLTAxMzctNDU5OS04NjYxLWZjNjQxZmU3N2JlYSIsImMiOjh9 
+
+Related publications: https://www.arup.com/perspectives/publications/research/section/assessing-the-regional-demand-for-geological-hydrogen-storage
