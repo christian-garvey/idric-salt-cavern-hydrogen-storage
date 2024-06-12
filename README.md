@@ -2,13 +2,12 @@
 Repository for IDRIC Project: Assessing the Regional Demand for Geological Hydrogen Storage. Completed February 2024.
 
 
-##################################################################################
+
 #                                                                                #
 #      **INDUSTRIAL DECARBONISATION RESEARCH AND INNOVATION CENTRE (IDRIC)**     #
-#                         
 #          SALT CAVERN SITE DEVELOPMENT AND CAPACITY TOOL | EAST COAST           #
 #                                                                                #
-##################################################################################
+
 
 
 Licensed under the XXX
