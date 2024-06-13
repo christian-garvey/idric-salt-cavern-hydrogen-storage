@@ -1,18 +1,20 @@
-# idric-salt-cavern-hydrogen-storage
-Repository for IDRIC Project: Assessing the Regional Demand for Geological Hydrogen Storage. Completed February 2024.
+<h3> idric-salt-cavern-hydrogen-storage </h3>
+
+<h1> Industrial Decarbonisation Research & Innovation Centre (IDRIC)
+<h2> Assessing the Regional Demand for Geological Hydrogen Storage  </h2>
+
+___
+Repository for Industrial Decarbonisation Research & Innovation Centre (IDRIC) Project: *Assessing the Regional Demand for Geological Hydrogen Storage* 
+<br>Completed February 2024.
+___
 
 
-
-#                                                                                #
-#      **INDUSTRIAL DECARBONISATION RESEARCH AND INNOVATION CENTRE (IDRIC)**     #
-#          SALT CAVERN SITE DEVELOPMENT AND CAPACITY TOOL | EAST COAST           #
-#                                                                                #
-
-
+<h3>Output <br>
+1. Salt Cavern Site Development and Capacity Tool | East Coast  </h3>
 
 Licensed under the XXX
 
-The tool held in this repository is a PowerBi dashboard developed to help 
+The tool held in this repository is a PowerBI dashboard developed to help 
 facilitate salt cavern development in the East Coast region of the UK.
 It's value can be fully realised in the early planning/exploration phase, 
 to highlight areas suitable for salt cavern development base on a suite 
