@@ -1,4 +1,4 @@
-<h3> idric-salt-cavern-hydrogen-storage </h3>
+<h3> #idric-salt-cavern-hydrogen-storage </h3>
 
 <h1> Industrial Decarbonisation Research & Innovation Centre (IDRIC)
 <h2> Assessing the Regional Demand for Geological Hydrogen Storage  </h2>
